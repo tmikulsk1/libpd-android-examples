@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libpd-examples</string>
+    <string name="btn_keyboard">Teclado musical</string>
+</resources>
