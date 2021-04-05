@@ -48,4 +48,14 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    // ACTIVITY KTX
+    implementation "androidx.activity:activity-ktx:1.2.2"
+
+    // LIBPD
+    implementation 'org.puredata.android:pd-core:1.2.1-rc1'
+
+    // LIFECYCLE
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.3.1"
 }
